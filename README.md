@@ -62,13 +62,19 @@ During the project, I worked on various code repositories and pull requests to b
 ### Fixed Issues:
 - https://github.com/openmrs/openmrs-contrib-fhir2-ig/pull/59
 - https://github.com/openmrs/openmrs-contrib-fhir2-ig/pull/60
-  Any other work
 
 ### Other related work:
 During this GSoC jouney, i was able to do other work on the FHIR module as asigned by my mentor and below are the pull requests;-
-- FM2-606: Mapping ContactPoints to OpenMRS
-- FM2-605: Add Support for ETags in the FHIR API
-- FM2-481: Clean up parameter passing for all Service class methods
+- [FM2-606: Mapping ContactPoints to OpenMRS](https://github.com/openmrs/openmrs-module-fhir2/pull/517)
+- [FM2-605: Add Support for ETags in the FHIR API](https://github.com/openmrs/openmrs-module-fhir2/pull/515)
+- https://github.com/openmrs/openmrs-module-fhir2/pull/510
+- https://github.com/openmrs/openmrs-module-fhir2/pull/518
+- https://github.com/openmrs/openmrs-module-fhir2/pull/511
+- https://github.com/openmrs/openmrs-module-fhir2/pull/512
+- https://github.com/openmrs/openmrs-module-fhir2/pull/504
+- https://github.com/openmrs/openmrs-module-fhir2/pull/505
+- https://github.com/openmrs/openmrs-module-fhir2/pull/442
+- https://github.com/openmrs/openmrs-module-fhir2/pull/441
 
 ### Talk Thread links:
 - https://talk.openmrs.org/t/gsoc-2023-fhir-add-support-for-fhir-patch-operations-project-updates/39555  
@@ -76,27 +82,27 @@ During this GSoC jouney, i was able to do other work on the FHIR module as asign
 ### Weekly Blog Posts:
 Throughout the development cycle, I chronicled my progress and insights through weekly blog posts:
 
-- GSOC WEEK 12 - WRAPPING UP A FRUITFUL GSOC JOURNEY: ADDING CONTACT POINTS TO THE OPENMRS-MODULE-INITIALIZER
-- GSOC WEEK 11: A JOURNEY OF REFINEMENT AND INNOVATION IN FHIR2 MODULE
-- GSOC WEEK 10 - EMBRACING THE FINALE: REFLECTING ON MY GSOC JOURNEY
-- GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 09
-- GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 08
-- GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 07
-- GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 06
-- GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 05
-- GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 04
-- GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 03
-- GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 02
-- GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 01
-- GSOC 2023 AT OPENMRS | COMMUNITY BONDING PERIOD
+- [GSOC WEEK 12 - WRAPPING UP A FRUITFUL GSOC JOURNEY: ADDING CONTACT POINTS TO THE OPENMRS-MODULE-INITIALIZER](https://hermanmuhereza.blogspot.com/2023/08/week-12-wrapping-up-fruitful-gsoc.html)
+- [GSOC WEEK 11: A JOURNEY OF REFINEMENT AND INNOVATION IN FHIR2 MODULE](https://hermanmuhereza.blogspot.com/2023/08/gsoc-2023-at-openmrs-coding-period-week_18.html)
+- [GSOC WEEK 10 - EMBRACING THE FINALE: REFLECTING ON MY GSOC JOURNEY](https://hermanmuhereza.blogspot.com/2023/08/gsoc-2023-at-openmrs-coding-period-week_10.html)
+- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 09](https://hermanmuhereza.blogspot.com/2023/08/gsoc-2023-at-openmrs-coding-period-week.html)
+- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 08](https://hermanmuhereza.blogspot.com/2023/07/gsoc-2023-at-openmrs-coding-period-week_24.html)
+- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 07](https://hermanmuhereza.blogspot.com/2023/07/gsoc-2023-at-openmrs-coding-period-week_0216759827.html)
+- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 06](https://hermanmuhereza.blogspot.com/2023/07/gsoc-2023-at-openmrs-coding-period-week_10.html)
+- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 05](https://hermanmuhereza.blogspot.com/2023/07/gsoc-2023-at-openmrs-coding-period-week.html)
+- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 04](https://hermanmuhereza.blogspot.com/2023/06/gsoc-2023-at-openmrs-coding-period-week_26.html)
+- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 03](https://hermanmuhereza.blogspot.com/2023/06/gsoc-2023-at-openmrs-coding-period-week_19.html)
+- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 02](https://hermanmuhereza.blogspot.com/2023/06/gsoc-2023-at-openmrs-coding-period-week_11.html)
+- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 01](https://hermanmuhereza.blogspot.com/2023/06/gsoc-2023-at-openmrs-coding-period-week.html)
+- [GSOC 2023 AT OPENMRS | COMMUNITY BONDING PERIOD](https://hermanmuhereza.blogspot.com/2023/05/gsoc-2023-at-openmrs-community-bonding.html)
 
 ## Video(Demo)
 - url
 
 ## Resources:
-- GSoC proposal
-- Jira Epic
-- Midterm evaluation video
+- [GSoC proposal](https://docs.google.com/document/d/14g2EddqKIpon3xXI71BMKXfu5zISIy6Psy9NgCp4t6Q/edit?usp=sharing)
+- [Jira Epic](https://issues.openmrs.org/browse/FM2-573)
+- [Midterm evaluation video](https://www.youtube.com/watch?v=P-0gj-8LOCE&t=8s)
 
 ## Future Works:
 While significant strides have been made, certain aspects require further attention. Completing the integration of PATCH operations with complex FHIR resources is a priority. Additionally, refining error handling and optimizing performance will ensure a robust implementation.
