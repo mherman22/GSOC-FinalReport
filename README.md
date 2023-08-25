@@ -26,55 +26,55 @@ During the project, I worked on various code repositories and pull requests to b
 - https://github.com/openmrs/openmrs-contrib-fhir2-ig
 
 ### Pull Requests: 
-- https://github.com/openmrs/openmrs-module-fhir2/pull/513
-- https://github.com/openmrs/openmrs-module-fhir2/pull/489
-- https://github.com/openmrs/openmrs-module-fhir2/pull/485
-- https://github.com/openmrs/openmrs-module-fhir2/pull/483
-- https://github.com/openmrs/openmrs-module-fhir2/pull/488
-- https://github.com/openmrs/openmrs-module-fhir2/pull/490
-- https://github.com/openmrs/openmrs-module-fhir2/pull/491
-- https://github.com/openmrs/openmrs-module-fhir2/pull/484
-- https://github.com/openmrs/openmrs-module-fhir2/pull/481
-- https://github.com/openmrs/openmrs-module-fhir2/pull/487
-- https://github.com/openmrs/openmrs-module-fhir2/pull/479
-- https://github.com/openmrs/openmrs-module-fhir2/pull/480
-- https://github.com/openmrs/openmrs-module-fhir2/pull/492
-- https://github.com/openmrs/openmrs-module-fhir2/pull/493
-- https://github.com/openmrs/openmrs-module-fhir2/pull/478
-- https://github.com/openmrs/openmrs-module-fhir2/pull/499
-- https://github.com/openmrs/openmrs-module-fhir2/pull/500
-- https://github.com/openmrs/openmrs-module-fhir2/pull/501
-- https://github.com/openmrs/openmrs-module-fhir2/pull/502
-- https://github.com/openmrs/openmrs-module-fhir2/pull/503
-- https://github.com/openmrs/openmrs-module-fhir2/pull/505
-- https://github.com/openmrs/openmrs-module-fhir2/pull/507
-- https://github.com/openmrs/openmrs-module-fhir2/pull/509
-- https://github.com/openmrs/openmrs-module-fhir2/pull/513
-- https://github.com/openmrs/openmrs-module-fhir2/pull/498
-- https://github.com/openmrs/openmrs-module-fhir2/pull/495
-- https://github.com/openmrs/openmrs-module-fhir2/pull/496
-- https://github.com/openmrs/openmrs-module-fhir2/pull/497
+- https://github.com/openmrs/openmrs-module-fhir2/pull/513✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/489✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/485✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/483✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/488✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/490✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/491✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/484✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/481✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/487✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/479✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/480✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/492✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/493✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/478✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/499✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/500✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/501✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/502✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/503✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/505✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/507✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/509✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/513✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/498✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/495✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/496✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/497✅
 
 ### Found Issues:
 - Medication Dispense was not added to the landing page of the FhirIG
 - Medication was not added to the landing page of the FhirIG
 
 ### Fixed Issues:
-- https://github.com/openmrs/openmrs-contrib-fhir2-ig/pull/59
-- https://github.com/openmrs/openmrs-contrib-fhir2-ig/pull/60
+- https://github.com/openmrs/openmrs-contrib-fhir2-ig/pull/59✅
+- https://github.com/openmrs/openmrs-contrib-fhir2-ig/pull/60✅
 
 ### Other related work:
 During this GSoC jouney, i was able to do other work on the FHIR module as asigned by my mentor and below are the pull requests;-
-- [FM2-606: Mapping ContactPoints to OpenMRS](https://github.com/openmrs/openmrs-module-fhir2/pull/517)
-- [FM2-605: Add Support for ETags in the FHIR API](https://github.com/openmrs/openmrs-module-fhir2/pull/515)
-- https://github.com/openmrs/openmrs-module-fhir2/pull/510
-- https://github.com/openmrs/openmrs-module-fhir2/pull/518
-- https://github.com/openmrs/openmrs-module-fhir2/pull/511
-- https://github.com/openmrs/openmrs-module-fhir2/pull/512
-- https://github.com/openmrs/openmrs-module-fhir2/pull/504
-- https://github.com/openmrs/openmrs-module-fhir2/pull/505
-- https://github.com/openmrs/openmrs-module-fhir2/pull/442
-- https://github.com/openmrs/openmrs-module-fhir2/pull/441
+- [FM2-606: Mapping ContactPoints to OpenMRS](https://github.com/openmrs/openmrs-module-fhir2/pull/517)✅
+- [FM2-605: Add Support for ETags in the FHIR API](https://github.com/openmrs/openmrs-module-fhir2/pull/515)✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/510✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/518✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/511✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/512✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/504✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/505✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/442✅
+- https://github.com/openmrs/openmrs-module-fhir2/pull/441✅
 
 ### Talk Thread links:
 - https://talk.openmrs.org/t/gsoc-2023-fhir-add-support-for-fhir-patch-operations-project-updates/39555  
