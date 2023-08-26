@@ -101,7 +101,7 @@ Throughout the development cycle, I chronicled my progress and insights through 
 - [GSOC 2023 AT OPENMRS | COMMUNITY BONDING PERIOD](https://hermanmuhereza.blogspot.com/2023/05/gsoc-2023-at-openmrs-community-bonding.html) 
 
 ## Video(Demo)
-- url
+https://www.youtube.com/watch?v=U_E5f4A38HE
 
 ## Resources:
 - [GSoC proposal](https://docs.google.com/document/d/14g2EddqKIpon3xXI71BMKXfu5zISIy6Psy9NgCp4t6Q/edit?usp=sharing)
