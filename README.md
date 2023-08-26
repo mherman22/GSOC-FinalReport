@@ -87,6 +87,9 @@ During this GSoC jouney, i was able to do other work on the FHIR module as assig
 ### Talk Thread links:
 - https://talk.openmrs.org/t/gsoc-2023-fhir-add-support-for-fhir-patch-operations-project-updates/39555
 - https://talk.openmrs.org/t/gsoc-2023-add-support-for-fhir-patch-operations-final-presentation/40338
+- https://talk.openmrs.org/t/toopenmrstype-translator-for-servicerequest-should-be-implemented/39980
+- https://talk.openmrs.org/t/failed-to-validate-with-reason-uuid-this-value-exceeds-the-maximum-length-of-38-permitted-for-this-field/39672
+- https://talk.openmrs.org/t/add-support-for-fhir-patch-operations/39042
 
 ### Jira Epic
 - https://issues.openmrs.org/browse/FM2-573
