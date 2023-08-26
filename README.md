@@ -85,7 +85,8 @@ During this GSoC jouney, i was able to do other work on the FHIR module as assig
 - https://github.com/openmrs/openmrs-module-fhir2/pull/441 - Merged ✅
 
 ### Talk Thread links:
-- https://talk.openmrs.org/t/gsoc-2023-fhir-add-support-for-fhir-patch-operations-project-updates/39555  
+- https://talk.openmrs.org/t/gsoc-2023-fhir-add-support-for-fhir-patch-operations-project-updates/39555
+- https://talk.openmrs.org/t/gsoc-2023-add-support-for-fhir-patch-operations-final-presentation/40338
 
 ### Jira Epic
 - https://issues.openmrs.org/browse/FM2-573
