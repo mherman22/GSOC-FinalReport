@@ -14,6 +14,13 @@ In the context of the HAPI FHIR library, "patching" refers to the process of mak
 
 Patching allows you to modify specific parts of a FHIR resource without having to replace the entire resource. This can be particularly useful when you want to make minor updates or corrections to a resource without sending the entire payload over the network. The PATCH operation follows the HTTP PATCH method semantics and is designed to be more efficient than the PUT or POST methods for updating resources, especially when dealing with large resources or slow network connections.
 
+- The Patch operations used within the above mentioned patch formats are `add, replace, move, copy, test, remove` .
+
+#### Format for supporting a single patch
+1. Detect the incoming format(either json-merge patch, json-patch or xml-patch)
+2. Load the existing resource in the appropriate format
+3. Apply the patch
+
 ## Objectives:
 - Implement JSON PATCH operations on all OpenMRS FHIR R4 resources and ensure to have the tests working perfectly. - COMPLETED ✅
 - Implement JSON MERGE PATCH operations on all OpenMRS FHIR R4 resources and ensure to have the tests working perfectly. - COMPLETED ✅
