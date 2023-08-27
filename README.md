@@ -33,35 +33,34 @@ During the project, I worked on various code repositories and pull requests to b
 - https://github.com/openmrs/openmrs-module-fhir2
 - https://github.com/openmrs/openmrs-contrib-fhir2-ig
 
-### Pull Requests: 
-- https://github.com/openmrs/openmrs-module-fhir2/pull/513 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/489 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/485 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/483 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/488 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/490 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/491 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/484 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/481 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/487 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/479 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/480 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/492 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/493 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/478 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/499 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/500 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/501 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/502 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/503 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/505 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/507 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/509 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/513 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/498 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/495 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/496 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/497 - Merged ✅
+### Pull Requests: [filtered here!](https://github.com/openmrs/openmrs-module-fhir2/pulls?page=1&q=is%3Amerged+is%3Apr+author%3A%40me)
+1. https://github.com/openmrs/openmrs-module-fhir2/pull/513 - Merged ✅
+2. https://github.com/openmrs/openmrs-module-fhir2/pull/509 - Merged ✅
+3. https://github.com/openmrs/openmrs-module-fhir2/pull/507 - Merged ✅
+4. https://github.com/openmrs/openmrs-module-fhir2/pull/506 - Merged ✅
+5. https://github.com/openmrs/openmrs-module-fhir2/pull/503 - Merged ✅
+6. https://github.com/openmrs/openmrs-module-fhir2/pull/502 - Merged ✅
+7. https://github.com/openmrs/openmrs-module-fhir2/pull/501 - Merged ✅
+8. https://github.com/openmrs/openmrs-module-fhir2/pull/500 - Merged ✅
+9. https://github.com/openmrs/openmrs-module-fhir2/pull/499 - Merged ✅
+10. https://github.com/openmrs/openmrs-module-fhir2/pull/498 - Merged ✅
+11. https://github.com/openmrs/openmrs-module-fhir2/pull/497 - Merged ✅
+12. https://github.com/openmrs/openmrs-module-fhir2/pull/496 - Merged ✅
+13. https://github.com/openmrs/openmrs-module-fhir2/pull/495 - Merged ✅
+14. https://github.com/openmrs/openmrs-module-fhir2/pull/493 - Merged ✅
+15. https://github.com/openmrs/openmrs-module-fhir2/pull/492 - Merged ✅
+16. https://github.com/openmrs/openmrs-module-fhir2/pull/491 - Merged ✅
+17. https://github.com/openmrs/openmrs-module-fhir2/pull/490 - Merged ✅
+18. https://github.com/openmrs/openmrs-module-fhir2/pull/489 - Merged ✅
+19. https://github.com/openmrs/openmrs-module-fhir2/pull/488 - Merged ✅
+20. https://github.com/openmrs/openmrs-module-fhir2/pull/487 - Merged ✅
+21. https://github.com/openmrs/openmrs-module-fhir2/pull/485 - Merged ✅
+22. https://github.com/openmrs/openmrs-module-fhir2/pull/484 - Merged ✅
+23. https://github.com/openmrs/openmrs-module-fhir2/pull/483 - Merged ✅
+24. https://github.com/openmrs/openmrs-module-fhir2/pull/481 - Merged ✅
+25. https://github.com/openmrs/openmrs-module-fhir2/pull/480 - Merged ✅
+26. https://github.com/openmrs/openmrs-module-fhir2/pull/479 - Merged ✅
+27. https://github.com/openmrs/openmrs-module-fhir2/pull/478 - Merged ✅
 
 ### Found Issues:
 - Medication Dispense was not added to the landing page of the FhirIG
