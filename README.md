@@ -74,24 +74,24 @@ During the project, I worked on various code repositories and pull requests to b
 During this GSoC jouney, i was able to do other work on the FHIR module as assigned by my mentor and below are the pull requests;-
 - [FM2-606: Mapping ContactPoints to OpenMRS](https://github.com/openmrs/openmrs-module-fhir2/pull/517) - Merged ✅
 - [FM2-605: Add Support for ETags in the FHIR API](https://github.com/openmrs/openmrs-module-fhir2/pull/515) - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/510 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/518 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/511 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/512 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/504 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/505 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/442 - Merged ✅
-- https://github.com/openmrs/openmrs-module-fhir2/pull/441 - Merged ✅
+- [FM2-481: Clean up parameter passing for Condition Service Search](https://github.com/openmrs/openmrs-module-fhir2/pull/510) - Merged ✅
+- [FM2-481: Clean up parameter passing for AllergyIntolerance Service Search](https://github.com/openmrs/openmrs-module-fhir2/pull/518) - Merged ✅
+- [FM2-481: Clean up parameter passing for DiagnosticReport Service Search](https://github.com/openmrs/openmrs-module-fhir2/pull/511) - Merged ✅
+- [FM2-481: Clean up parameter passing for MedicationRequest Service Search](https://github.com/openmrs/openmrs-module-fhir2/pull/512) - Merged ✅
+- [FM2-481: Clean up parameter passing for Practitioner Service Search method](https://github.com/openmrs/openmrs-module-fhir2/pull/504) - Merged ✅
+- [FM2-481: Clean up parameter passing for Medication Service Search method](https://github.com/openmrs/openmrs-module-fhir2/pull/505) - Merged ✅
+- [FM2-481: Clean up parameter passing for Task Service class search method](https://github.com/openmrs/openmrs-module-fhir2/pull/442) - Merged ✅
+- [FM2-481: Clean up parameter passing in Person Service class search method](https://github.com/openmrs/openmrs-module-fhir2/pull/441) - Merged ✅
 
 ### Talk Thread links:
-- https://talk.openmrs.org/t/gsoc-2023-fhir-add-support-for-fhir-patch-operations-project-updates/39555
-- https://talk.openmrs.org/t/gsoc-2023-add-support-for-fhir-patch-operations-final-presentation/40338
-- https://talk.openmrs.org/t/toopenmrstype-translator-for-servicerequest-should-be-implemented/39980
-- https://talk.openmrs.org/t/failed-to-validate-with-reason-uuid-this-value-exceeds-the-maximum-length-of-38-permitted-for-this-field/39672
-- https://talk.openmrs.org/t/add-support-for-fhir-patch-operations/39042
+- [GSoC 2023: Add Support for FHIR Patch Operations - project updates](https://talk.openmrs.org/t/gsoc-2023-fhir-add-support-for-fhir-patch-operations-project-updates/39555)
+- [GSoC 2023: Add Support for FHIR Patch Operations - final presentation](https://talk.openmrs.org/t/gsoc-2023-add-support-for-fhir-patch-operations-final-presentation/40338)
+- [toOpenmrstype-translator-for-servicerequest-should-be-implemented](https://talk.openmrs.org/t/toopenmrstype-translator-for-servicerequest-should-be-implemented/39980)
+- [failed-to-validate-with-reason-uuid-this-value-exceeds-the-maximum-length-of-38-permitted-for-this-field](https://talk.openmrs.org/t/failed-to-validate-with-reason-uuid-this-value-exceeds-the-maximum-length-of-38-permitted-for-this-field/39672)
+- [add-support-for-fhir-patch-operations](https://talk.openmrs.org/t/add-support-for-fhir-patch-operations/39042)
 
 ### Jira Epic
-- https://issues.openmrs.org/browse/FM2-573
+- [Add Support for Fhir Patch Operations - Jira Epic](https://issues.openmrs.org/browse/FM2-573)
 
 ### Weekly Blog Posts:
 Throughout the development cycle, I chronicled my progress and insights through weekly blog posts:
@@ -99,16 +99,16 @@ Throughout the development cycle, I chronicled my progress and insights through 
 - [GSOC WEEK 12 - WRAPPING UP A FRUITFUL GSOC JOURNEY: ADDING CONTACT POINTS TO THE OPENMRS-MODULE-INITIALIZER](https://hermanmuhereza.blogspot.com/2023/08/week-12-wrapping-up-fruitful-gsoc.html)
 - [GSOC WEEK 11: A JOURNEY OF REFINEMENT AND INNOVATION IN FHIR2 MODULE](https://hermanmuhereza.blogspot.com/2023/08/gsoc-2023-at-openmrs-coding-period-week_18.html)
 - [GSOC WEEK 10 - EMBRACING THE FINALE: REFLECTING ON MY GSOC JOURNEY](https://hermanmuhereza.blogspot.com/2023/08/gsoc-2023-at-openmrs-coding-period-week_10.html)
-- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 09](https://hermanmuhereza.blogspot.com/2023/08/gsoc-2023-at-openmrs-coding-period-week.html)
-- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 08](https://hermanmuhereza.blogspot.com/2023/07/gsoc-2023-at-openmrs-coding-period-week_24.html)
-- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 07](https://hermanmuhereza.blogspot.com/2023/07/gsoc-2023-at-openmrs-coding-period-week_0216759827.html)
-- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 06](https://hermanmuhereza.blogspot.com/2023/07/gsoc-2023-at-openmrs-coding-period-week_10.html)
-- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 05](https://hermanmuhereza.blogspot.com/2023/07/gsoc-2023-at-openmrs-coding-period-week.html)
-- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 04](https://hermanmuhereza.blogspot.com/2023/06/gsoc-2023-at-openmrs-coding-period-week_26.html)
-- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 03](https://hermanmuhereza.blogspot.com/2023/06/gsoc-2023-at-openmrs-coding-period-week_19.html)
-- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 02](https://hermanmuhereza.blogspot.com/2023/06/gsoc-2023-at-openmrs-coding-period-week_11.html)
-- [GSOC 2023 AT OPENMRS | CODING PERIOD WEEK 01](https://hermanmuhereza.blogspot.com/2023/06/gsoc-2023-at-openmrs-coding-period-week.html)
-- [GSOC 2023 AT OPENMRS | COMMUNITY BONDING PERIOD](https://hermanmuhereza.blogspot.com/2023/05/gsoc-2023-at-openmrs-community-bonding.html) 
+- [CODING PERIOD WEEK 09](https://hermanmuhereza.blogspot.com/2023/08/gsoc-2023-at-openmrs-coding-period-week.html)
+- [CODING PERIOD WEEK 08](https://hermanmuhereza.blogspot.com/2023/07/gsoc-2023-at-openmrs-coding-period-week_24.html)
+- [CODING PERIOD WEEK 07](https://hermanmuhereza.blogspot.com/2023/07/gsoc-2023-at-openmrs-coding-period-week_0216759827.html)
+- [CODING PERIOD WEEK 06](https://hermanmuhereza.blogspot.com/2023/07/gsoc-2023-at-openmrs-coding-period-week_10.html)
+- [CODING PERIOD WEEK 05](https://hermanmuhereza.blogspot.com/2023/07/gsoc-2023-at-openmrs-coding-period-week.html)
+- [CODING PERIOD WEEK 04](https://hermanmuhereza.blogspot.com/2023/06/gsoc-2023-at-openmrs-coding-period-week_26.html)
+- [CODING PERIOD WEEK 03](https://hermanmuhereza.blogspot.com/2023/06/gsoc-2023-at-openmrs-coding-period-week_19.html)
+- [CODING PERIOD WEEK 02](https://hermanmuhereza.blogspot.com/2023/06/gsoc-2023-at-openmrs-coding-period-week_11.html)
+- [CODING PERIOD WEEK 01](https://hermanmuhereza.blogspot.com/2023/06/gsoc-2023-at-openmrs-coding-period-week.html)
+- [COMMUNITY BONDING PERIOD](https://hermanmuhereza.blogspot.com/2023/05/gsoc-2023-at-openmrs-community-bonding.html) 
 
 ## Video(Demo)
 
@@ -120,7 +120,7 @@ https://github.com/mherman22/GSOC-FinalReport/assets/47120265/09a4d47d-e67f-4dc1
 ## Resources:
 - [GSoC proposal](https://docs.google.com/document/d/14g2EddqKIpon3xXI71BMKXfu5zISIy6Psy9NgCp4t6Q/edit?usp=sharing)
 - [Midterm evaluation video](https://www.youtube.com/watch?v=P-0gj-8LOCE&t=8s)
-- https://issues.openmrs.org/browse/FM2-573
+- [jira epic](https://issues.openmrs.org/browse/FM2-573)
 
 ## Future Works:
 While significant strides have been made, certain aspects require further attention. Completing the integration of PATCH operations with complex FHIR resources is a priority. Additionally, refining error handling and optimizing performance will ensure a robust implementation.
