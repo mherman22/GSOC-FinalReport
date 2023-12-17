@@ -1,7 +1,7 @@
 ## Add Support for FHIR PATCH operations
 - **Project Title**: Add Support for FHIR PATCH operations
-- **Primary mentor**:  Ian Bacher @ibacher 
-- **Backup mentor**:  Abert Namanya @abertnamanya 
+- **Primary mentor**:  [Ian Bacher](https://bcbi.brown.edu/people/ian-bacher-phd) 
+- **Backup mentor**:  [Abert Namanya](https://www.linkedin.com/in/namanya-abert-49b610113/?originalSubdomain=ug)
 - **Project Link**: [GSoC-2023: FHIR: Add Support for FHIR PATCH operations](https://wiki.openmrs.org/display/projects/GSoC+2023+%3A+FHIR%3A+Add+support+for+FHIR+PATCH+operations)
 - **Project Report**: https://github.com/mherman22/GSOC-FinalReport
 
