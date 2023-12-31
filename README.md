@@ -30,45 +30,45 @@ Patching allows you to modify specific parts of a FHIR resource without having t
 During the project, I worked on various code repositories and pull requests to bring the functionality of PATCH operations to the FHIR API:
 
 ### Repositories: 
-- https://github.com/openmrs/openmrs-module-fhir2
-- https://github.com/openmrs/openmrs-contrib-fhir2-ig
+- [OpenMRS FHIR2 MODULE](https://github.com/openmrs/openmrs-module-fhir2)
+- [OpenMRS FHIR IG](https://github.com/openmrs/openmrs-contrib-fhir2-ig)
 
 ### Pull Requests: [filtered here!](https://github.com/openmrs/openmrs-module-fhir2/pulls?page=1&q=is%3Amerged+is%3Apr+author%3A%40me)
-1. https://github.com/openmrs/openmrs-module-fhir2/pull/513 - Merged ✅
-2. https://github.com/openmrs/openmrs-module-fhir2/pull/509 - Merged ✅
-3. https://github.com/openmrs/openmrs-module-fhir2/pull/507 - Merged ✅
-4. https://github.com/openmrs/openmrs-module-fhir2/pull/506 - Merged ✅
-5. https://github.com/openmrs/openmrs-module-fhir2/pull/503 - Merged ✅
-6. https://github.com/openmrs/openmrs-module-fhir2/pull/502 - Merged ✅
-7. https://github.com/openmrs/openmrs-module-fhir2/pull/501 - Merged ✅
-8. https://github.com/openmrs/openmrs-module-fhir2/pull/500 - Merged ✅
-9. https://github.com/openmrs/openmrs-module-fhir2/pull/499 - Merged ✅
-10. https://github.com/openmrs/openmrs-module-fhir2/pull/498 - Merged ✅
-11. https://github.com/openmrs/openmrs-module-fhir2/pull/497 - Merged ✅
-12. https://github.com/openmrs/openmrs-module-fhir2/pull/496 - Merged ✅
-13. https://github.com/openmrs/openmrs-module-fhir2/pull/495 - Merged ✅
-14. https://github.com/openmrs/openmrs-module-fhir2/pull/493 - Merged ✅
-15. https://github.com/openmrs/openmrs-module-fhir2/pull/492 - Merged ✅
-16. https://github.com/openmrs/openmrs-module-fhir2/pull/491 - Merged ✅
-17. https://github.com/openmrs/openmrs-module-fhir2/pull/490 - Merged ✅
-18. https://github.com/openmrs/openmrs-module-fhir2/pull/489 - Merged ✅
-19. https://github.com/openmrs/openmrs-module-fhir2/pull/488 - Merged ✅
-20. https://github.com/openmrs/openmrs-module-fhir2/pull/487 - Merged ✅
-21. https://github.com/openmrs/openmrs-module-fhir2/pull/485 - Merged ✅
-22. https://github.com/openmrs/openmrs-module-fhir2/pull/484 - Merged ✅
-23. https://github.com/openmrs/openmrs-module-fhir2/pull/483 - Merged ✅
-24. https://github.com/openmrs/openmrs-module-fhir2/pull/481 - Merged ✅
-25. https://github.com/openmrs/openmrs-module-fhir2/pull/480 - Merged ✅
-26. https://github.com/openmrs/openmrs-module-fhir2/pull/479 - Merged ✅
-27. https://github.com/openmrs/openmrs-module-fhir2/pull/478 - Merged ✅
+1. [Add Support for Patching on Immunization Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/513) - Merged ✅
+2. [Add Support for UPDATE on the Observation Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/509) - Merged ✅
+3. [Add support for XML PATCH operation - Location Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/507) - Merged ✅
+4. [Add support for XML PATCHing operations - Encounter Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/506) - Merged ✅
+5. [Add support for XML PATCHing operations-MedicationDispense Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/503) - Merged ✅
+6. [Add support for XML PATCHing operations-Task Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/502) - Merged ✅
+7. [Add support for XML PATCHing operations - Medication Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/501) - Merged ✅
+8. [Add support for XML PATCHing operations - DiagnosticReport Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/500) - Merged ✅
+9. [Add support for XML PATCHing operations - MedicationRequest Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/499) - Merged ✅
+10. [Add support for XML patching operations - Condition Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/498) - Merged ✅
+11. [Add support for XML patching operations - Person Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/497) - Merged ✅
+12. [Add support for XML patching operations - AllergyIntolerance Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/496) - Merged ✅
+13. [Add support for XML patching operations - Practitioner Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/495) - Merged ✅
+14. [Add support for XML Patch operations - Patient Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/493) - Merged ✅
+15. [Add Support for JSON patching operations — MedicationDispense Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/492) - Merged ✅
+16. [Add support for Json Merge Patch operations - Practitioner Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/491) - Merged ✅
+17. [Add support for Json Patching operations - DiagnosticReport Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/490) - Merged ✅
+18. [Add support for Json patching operations - Encounter Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/489) - Merged ✅
+19. [Add support for Json Merge Patch operations - Medication Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/488) - Merged ✅
+20. [Ensure that we can support json patches too since json merge patches have a limitation when it comes to patching attributes inside Arrays, Lists](https://github.com/openmrs/openmrs-module-fhir2/pull/487) - Merged ✅
+21. [toOpenmrsType translators should set uuid to id part of id, not full id](https://github.com/openmrs/openmrs-module-fhir2/pull/485) - Merged ✅
+22. [Add support for Json patching operations - Task Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/484) - Merged ✅
+23. [Add support for Json patching operations - Patient Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/483) - Merged ✅
+24. [Add support for Json patching operations - Allergy Intolerence Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/481) - Merged ✅
+25. [Add support for Json patching operations - Person Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/480) - Merged ✅
+26. [Add support for Json patching operations - Condition Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/479) - Merged ✅
+27. [Add support for Json patching operations - Location Resource](https://github.com/openmrs/openmrs-module-fhir2/pull/478) - Merged ✅
 
 ### Found Issues:
 - Medication Dispense was not added to the landing page of the FhirIG
 - Medication was not added to the landing page of the FhirIG
 
 ### Fixed Issues:
-- https://github.com/openmrs/openmrs-contrib-fhir2-ig/pull/59 - Merged ✅
-- https://github.com/openmrs/openmrs-contrib-fhir2-ig/pull/60 - Merged ✅
+- [Add medication resource to the index page](https://github.com/openmrs/openmrs-contrib-fhir2-ig/pull/59) - Merged ✅
+- [Adding MedicationDispense to index.md](https://github.com/openmrs/openmrs-contrib-fhir2-ig/pull/60) - Merged ✅
 
 ### Other related work:
 During this GSoC jouney, i was able to do other work on the FHIR module as assigned by my mentor and below are the pull requests;-
