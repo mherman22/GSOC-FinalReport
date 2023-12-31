@@ -3,7 +3,7 @@
 - **Primary mentor**:  [Ian Bacher](https://bcbi.brown.edu/people/ian-bacher-phd) 
 - **Backup mentor**:  [Abert Namanya](https://www.linkedin.com/in/namanya-abert-49b610113/?originalSubdomain=ug)
 - **Project Link**: [GSoC-2023: FHIR: Add Support for FHIR PATCH operations](https://wiki.openmrs.org/display/projects/GSoC+2023+%3A+FHIR%3A+Add+support+for+FHIR+PATCH+operations)
-- **Project Report**: https://github.com/mherman22/GSOC-FinalReport
+- **Project Report**: [Report repo](https://github.com/mherman22/GSOC-FinalReport)
 
 ## Overview
 OpenMRS is using the FHIR API more and more in place of the REST API. However, the FHIR API is, by default, quite verbose. Supporting PATCH operations would allow us to support partial updates to FHIR resources without needing to send the whole resource from the client to the server.
