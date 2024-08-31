@@ -41,6 +41,10 @@ During the project, I worked on various code repositories and pull requests to b
 - https://github.com/I-TECH-UW/OpenELIS-Global-2/pull/1065
 - https://github.com/I-TECH-UW/OpenELIS-Global-2/pull/1065/commits/96605f8c8be0a77e05a22ea1aef7b75d1e94535c
 
+### Final Video Presentation
+
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=Sa9EJm0a8Ks)
+
 ### What’s left to do? 
 - Polish up on the Querying of the client registry and get [this pull request](https://github.com/I-TECH-UW/OpenELIS-Global-2/pull/1219) merged.
 - Thereafter, we can import the patient information from openclient registry into **OpenELIS**
